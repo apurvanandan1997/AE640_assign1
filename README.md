@@ -1,2 +1,1 @@
-# imageproc
-Assignment AE640
+# Assignment AE640
